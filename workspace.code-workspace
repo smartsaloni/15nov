@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "15nov",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"switch",
+			""
+		]
+	}
+}
